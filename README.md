@@ -52,7 +52,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam023&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam023&layout=compact&theme=tokyonight&hide=verilog,tcl" alt="Top Languages" />
+
 </p>
 
 ---
