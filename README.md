@@ -17,8 +17,8 @@
 
 ### 📬 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pandeysatya023)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/satyam_pandey07/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/satyam_pandey07)  
-[![GeeksforGeeks](https://www.geeksforgeeks.org/user/satyam_pandey07/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/_satyam.023/)  
 
 ---
