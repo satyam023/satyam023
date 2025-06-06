@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 **About Me** 
-- 💬 Ask me about **React.js, Node.js & Express.js , VLSI , Vivado **
+- 💬 Ask me about **React.js, Node.js, Express.js, VLSI & Vivado **
 - 📫 Reach me at **satyampandey0006@gmail.com**
 - ⚡ Fun Fact: **🤓 I debug my code faster than I find my lost socks!** 🧦💨
 
