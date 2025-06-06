@@ -1,6 +1,6 @@
 ## 🚀 **Hi there! I'm Satyam Pandey** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### 👨‍💻 **B.Tech | MERN Stack Developer | Tech Enthusiast**
+### 👨‍💻 **B.Tech | Electronics And Communication Engineer | Tech Enthusiast**
 🔹 **Electronics & Communication Engineering** at **NIT Bhopal** (Graduating in 2026)  
 🔹 Passionate **EC Engineer** from **India**  
 🔹 Exploring **Different Technologies**  
