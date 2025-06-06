@@ -2,14 +2,13 @@
 
 ### 👨‍💻 **B.Tech | MERN Stack Developer | Tech Enthusiast**
 🔹 **Electronics & Communication Engineering** at **NIT Bhopal** (Graduating in 2026)  
-🔹 Passionate **MERN Stack Developer** from **India**  
-🔹 Exploring **Natural Language Processing (NLP)** & AI 🤖  
+🔹 Passionate **EC Engineer** from **India**  
+🔹 Exploring **Different Technologies**  
 
 ---
 
-### 🚀 **About Me**
-- 🌱 Currently learning **Natural Language Processing (NLP)**
-- 💬 Ask me about **React.js, Node.js & Express.js**
+### 🚀 **About Me** 
+- 💬 Ask me about **React.js, Node.js & Express.js , VLSI , Vivado **
 - 📫 Reach me at **satyampandey0006@gmail.com**
 - ⚡ Fun Fact: **🤓 I debug my code faster than I find my lost socks!** 🧦💨
 
